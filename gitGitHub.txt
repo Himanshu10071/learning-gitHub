@@ -6,21 +6,21 @@ git and github aache se sihko
 
 
 git commands
-git -h   for help
-git add .  for adding all files
-git status  for status
-git commit -m "message" for commit
-git log  for log
-git branch -a  for all branches
-git branch -m "branch name"  for renaming branch
-git branch -d "branch name"  for deleting branch
-git checkout "branch name"  for switching branch
-git merge "branch name"  for merging branch
-git push origin "branch name"  for pushing branch
-git pull origin "branch name"  for pulling branch
-git remote -v  for remote url
-git remote add "name" "url"  for adding remote
-git remote remove "name"  for removing remote
+git -h                                       for help
+git add .                            for adding all files
+git status                              for status
+git commit -m "message"                 for commit
+git log                                  for log
+git branch -a                             for all branches
+git branch -m "branch name"               for renaming branch
+git branch -d "branch name"            for deleting branch
+git checkout "branch name"               for switching branch
+git merge "branch name"              for merging branch
+git push origin "branch name"            for pushing branch
+git pull origin "branch name"             for pulling branch
+git remote -v                            for remote url
+git remote add "name" "url"               for adding remote
+git remote remove "name"             for removing remote
 
 
 
