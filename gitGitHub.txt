@@ -23,6 +23,7 @@ git remote add "name" "url"               for adding remote
 git remote remove "name"             for removing remote
 
 
+// pull practising
 
 
 
